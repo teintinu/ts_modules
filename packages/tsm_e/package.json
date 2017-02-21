@@ -1,0 +1,16 @@
+{
+  "name": "tsm_e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "out/e.js",
+  "typings": "src/e",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^2.1.6"
+  }
+}
