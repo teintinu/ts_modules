@@ -1,5 +1,5 @@
 {
-  "name": "tsm_d",
+  "name": "tsm_b",
   "version": "1.0.0",
   "description": "",
   "main": "out/d.js",
@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "tsm_c": "file:../tsm_c",
+    "tsm_a": "file:../tsm_a",
     "typescript": "^2.1.6"
   }
 }
