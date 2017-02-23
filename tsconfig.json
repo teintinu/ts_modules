@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "module": "system",
+        "moduleResolution": "node",
+        "target": "es5",
+        "lib": [
+            "es6",
+            "es7",
+            "dom"
+        ],
+        "sourceMap": true,
+        "rootDir": ".",
+        "jsx": "react",
+        "jsxFactory": "React.createElement"
+        
+    },
+    "include": [
+        "index.tsx",
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
